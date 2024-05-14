@@ -1,0 +1,16 @@
+#countdown {
+    font-size: 52px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+  }
+  
+
+  .fondo-comming{
+    background-image: url(../images/Comming\ soon\ \(1\).jpg);
+  }
+
+  .texto-comming{
+    color: white;
+  }

@@ -1,0 +1,26 @@
+
+
+.h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+    color: black;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.btn{
+     display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+
+.btn-volver{
+   width: 100px;
+   height: 30px;
+    background-color: rgb(67, 67, 89);
+    color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+}
